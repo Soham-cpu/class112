@@ -1,0 +1,41 @@
+body{
+  color: white;
+  background: linear-gradient(to bottom right, yellow 0%, #e88710 55%, #fc5a03 100%);
+}
+
+span{
+  font-size: 30px;
+}
+
+#camera , #result{
+  width: 350px;
+  height: 300px; 
+  background-color:#ff05a8;
+}
+
+.emotion_name{
+  font-size: 30px;
+  color: black;
+}
+
+.emoji{
+  font-size:48px;
+}
+
+.update_emoji{
+  font-size: 40px;
+}
+
+label{
+  background-color: red;
+  color: purple;
+  padding:10px;
+  border-radius: 10px;
+  border-width: 2px;
+  border-color: black;
+}
+
+.heading{
+  background-color: cyan;
+  width:25%;
+}
